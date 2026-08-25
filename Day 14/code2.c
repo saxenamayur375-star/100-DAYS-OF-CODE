@@ -18,7 +18,7 @@ Output 2:
 
 int main(){
     int n, product=1;
-    printf("ENTER the nnumber of which you want the product of even numbers from 1: \n");
+    printf("ENTER the number of which you want the product of even numbers from 1: \n");
     scanf("%d",&n);
     for (int i = 2; i<=n; i+=2)
     {
